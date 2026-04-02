@@ -133,9 +133,9 @@ function computeSku(sku,manualOrders){
 }
 
 // ─── COLORS ─────────────────────────────────────────────────────────────────
-const C={bg:"#f7f8fa",surface:"#ffffff",surfaceAlt:"#f1f3f6",border:"#e0e3ea",borderLight:"#eceef3",
-  text:"#1e293b",textMuted:"#64748b",textFaint:"#94a3b8",headerBg:"#f0f1f5",
-  band1:"#ffffff",band2:"#fafbfc",orderBg:"#f0f4ff",
+const C={bg:"#fffde7",surface:"#fffef2",surfaceAlt:"#fff9db",border:"#e9e2b3",borderLight:"#f1ebc8",
+  text:"#1e293b",textMuted:"#64748b",textFaint:"#94a3b8",headerBg:"#fff7cc",
+  band1:"#fffef5",band2:"#fffbe6",orderBg:"#fff4bf",
   stockoutBg:"#fef2f2",stockoutText:"#b91c1c",stockoutBorder:"#fecaca",
   criticalBg:"#fff7ed",criticalText:"#c2410c",criticalBorder:"#fed7aa",
   lowBg:"#fefce8",lowText:"#a16207",lowBorder:"#fef08a",
